@@ -1,7 +1,0 @@
-D:\TTCSN\Chuong_2\LanAnh_Mang\LanAnh_Mang\bin\Debug\LanAnh_Mang.exe.config
-D:\TTCSN\Chuong_2\LanAnh_Mang\LanAnh_Mang\bin\Debug\LanAnh_Mang.exe
-D:\TTCSN\Chuong_2\LanAnh_Mang\LanAnh_Mang\bin\Debug\LanAnh_Mang.pdb
-D:\TTCSN\Chuong_2\LanAnh_Mang\LanAnh_Mang\obj\Debug\LanAnh_Mang.csproj.AssemblyReference.cache
-D:\TTCSN\Chuong_2\LanAnh_Mang\LanAnh_Mang\obj\Debug\LanAnh_Mang.csproj.CoreCompileInputs.cache
-D:\TTCSN\Chuong_2\LanAnh_Mang\LanAnh_Mang\obj\Debug\LanAnh_Mang.exe
-D:\TTCSN\Chuong_2\LanAnh_Mang\LanAnh_Mang\obj\Debug\LanAnh_Mang.pdb
