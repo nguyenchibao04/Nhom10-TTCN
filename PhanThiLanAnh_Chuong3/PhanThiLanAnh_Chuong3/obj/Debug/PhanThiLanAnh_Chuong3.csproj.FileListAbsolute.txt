@@ -1,7 +1,0 @@
-D:\TTCSN\PhanThiLanAnh_Chuong3\PhanThiLanAnh_Chuong3\bin\Debug\PhanThiLanAnh_Chuong3.exe.config
-D:\TTCSN\PhanThiLanAnh_Chuong3\PhanThiLanAnh_Chuong3\bin\Debug\PhanThiLanAnh_Chuong3.exe
-D:\TTCSN\PhanThiLanAnh_Chuong3\PhanThiLanAnh_Chuong3\bin\Debug\PhanThiLanAnh_Chuong3.pdb
-D:\TTCSN\PhanThiLanAnh_Chuong3\PhanThiLanAnh_Chuong3\obj\Debug\PhanThiLanAnh_Chuong3.csproj.AssemblyReference.cache
-D:\TTCSN\PhanThiLanAnh_Chuong3\PhanThiLanAnh_Chuong3\obj\Debug\PhanThiLanAnh_Chuong3.csproj.CoreCompileInputs.cache
-D:\TTCSN\PhanThiLanAnh_Chuong3\PhanThiLanAnh_Chuong3\obj\Debug\PhanThiLanAnh_Chuong3.exe
-D:\TTCSN\PhanThiLanAnh_Chuong3\PhanThiLanAnh_Chuong3\obj\Debug\PhanThiLanAnh_Chuong3.pdb
